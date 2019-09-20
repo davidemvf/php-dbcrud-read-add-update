@@ -1,0 +1,25 @@
+h1 {
+  color: gray;
+  margin-left: 15px;
+}
+
+.bevanda {
+  padding: 25px;
+  margin: 20px 30px 30px 15px;
+  border: 1px solid gray;
+  background: lightgray;
+  display: inline-block;
+}
+
+.update{
+  margin-top: 50px;
+}
+
+.update:hover{
+  text-decoration: underline;
+}
+
+.add{
+  margin-left: 15px;
+  border: 1px solid gray;
+}
